@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Joshua360
-- 👀 I’m interested in contributing to open source projects and fintech.
-- 🌱 I’m currently learning Java, system design and design patterns.
-- 💞️ I’m looking to collaborate on frontend projects.
-- 📫 How to reach me:
-  -  email: joshuaowuor27@gmail.com
+### Hi there 👋, my name is Joshua
+![](https://res.cloudinary.com/dfxmjolki/image/upload/v1667815001/githubprofile/joshua_2_lc1nco.png)
 
-<!---
-Joshua360/Joshua360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a software developer who is passionate about contributing to opensource projects that have positive impacts on the lives of real people. I mainly work with the JavaScript ecosystem but I am also skilled in PHP and Python. 
+
+Skills: JavaScript , PHP, Python
+
+
+
+
+
