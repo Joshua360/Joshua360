@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Joshua!
 
-👨‍💻 As a dedicated software engineer, I am enthusiastic about building robust and scalable applications. Here's more about me:
+👨‍💻 As a dedicated fullstack developer, I am enthusiastic about building robust and scalable applications. Here's more about me:
 
 - 🛠️ **Tech Stack:** Proficient in front-end technologies like React, Angular, and back-end with Node.js, Express.
 - 🌱 **Currently Advancing:** Enhancing my skills in cloud services (AWS, Azure) and containerization (Docker, Kubernetes).
