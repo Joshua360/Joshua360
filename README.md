@@ -2,7 +2,7 @@
 
 👨‍💻 As a dedicated fullstack developer, I am enthusiastic about building robust and scalable applications. Here's more about me:
 
-- 🛠️ **Tech Stack:** Proficient in front-end technologies like React, Angular, and back-end with Node.js, Express.
+- 🛠️ **Tech Stack:** MERN
 - 🌱 **Currently Advancing:** Enhancing my skills in cloud services (AWS, Azure) and containerization (Docker, Kubernetes).
 - 📈 **Projects:** Feel free to browse through my repositories to see a variety of applications I’ve developed.
 - 🤝 **Open to Collaborate:** Especially interested in projects aimed at improving digital infrastructure and financial technologies.
